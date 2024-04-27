@@ -1,4 +1,5 @@
 @import "../../../styles/variables.scss";
+
 form {
     width: 100%;
     display: flex;
@@ -9,7 +10,7 @@ form {
     span {
         font-size: 14px;
         text-decoration: underline;
-        color: $secundary-color;
+        color: #1E2772;
         text-align: end;
     }
 }
